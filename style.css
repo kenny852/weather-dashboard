@@ -1,0 +1,9 @@
+.header, .forecast{
+    background-color: rgba(40, 40, 40, 0.7);
+    color: white;
+}
+
+.list{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
